@@ -1,2 +1,2 @@
-# shop-shop
+# shop-shop projects
 My first commit
